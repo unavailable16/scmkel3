@@ -1,0 +1,5 @@
+- [ ] Add username/password login for the three approved demo accounts using Lovable Cloud.
+- [ ] Show the signed-in account name and initials; add sign-out.
+- [ ] Ensure 35 sample rows in each of the seven data lists while preserving saved rows.
+- [ ] Add and run focused tests for account allowlist and initial row counts.
+- [ ] Verify the login and sample-data experience in the preview and check build logs.
